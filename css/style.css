@@ -37,6 +37,7 @@ p {
 }
 
 .about img {
+	width: 700px ;
 	box-shadow:2px 2px 4px gray;
 }
 .title {
